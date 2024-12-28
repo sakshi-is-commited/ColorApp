@@ -53,13 +53,13 @@ The app follows the MVVM architecture pattern to separate concerns:
 
 ## **Screenshots**
 ### **Home Screen**
-![Alt text](Screen1.jpeg)
+![Alt text](images/Screen1.jpeg)
 
 ### **Adding Colors**
-![Alt text](Screen2.jpeg)
-![Alt text](Screen3.jpeg)
+![Alt text](images/Screen2.jpeg)
+![Alt text](images/Screen3.jpeg)
 
 ### **Syncing Colors**
-![Alt text](Screen4.jpeg)
+![Alt text](images/Screen4.jpeg)
 
 
